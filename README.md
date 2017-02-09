@@ -15,4 +15,4 @@ Since we only had around an hour to build the app, we forgot some details, a bac
 * **Ross Blassingame** *iOS Development* [Github](https://github.com/RossBlassingame)  
 * **Michael Tang** *iOS Development* [Github](https://github.com/mita4829)  
 * **Lucy Wilkinson** *iOS Development* [Github](https://github.com/lucywilkinson)  
-* **Ryan Batton** *iOS Development* [Github](https://github.com/ryanbaten)
+* **Ryan Baten** *iOS Development* [Github](https://github.com/ryanbaten)
