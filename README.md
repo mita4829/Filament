@@ -1,5 +1,5 @@
 # Filament
-
+![Alt text](https://github.com/mita4829/Filament/blob/master/Filament.png "Filament 1.0")
 ## Description
 **Filament** is an iOS-based remote control app. The remote may be used to control lights, heat, a speaker system, and doors/locks in numerous rooms. It is usable by people who are completely blind, using the iPhone's built-in VoiceOver screen reader, people who are completely sighted using the visual interface, and people with low vision due to the colour and font size choices.
 
@@ -12,6 +12,7 @@ When we tested with another member of the class, we found a break that caused on
 
 ## Storyboard
 ![alt text](https://raw.githubusercontent.com/mita4829/Filament/master/Storyboard.JPG "Storyboard")
+![Alt text](https://github.com/mita4829/Filament/blob/master/SS.PNG "Screen Shot")
 
 ## Authors
 * **Ross Blassingame** *iOS Development* [Github](https://github.com/RossBlassingame)  
